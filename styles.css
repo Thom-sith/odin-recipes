@@ -1,0 +1,52 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:lavender;
+}
+
+#main_title{
+    /*font-family: Arial, Helvetica, sans-serif;*/
+    text-align: center;
+    font-weight: bold;
+    color: darkseagreen;
+    font-size: 42px;
+}
+
+#back_link{
+    text-align: center;
+    
+}
+
+h1{
+    text-align: left;
+    font-weight: bold;
+    font-size: 32px;
+    color: darkorange;
+}
+h3{
+    text-align: left;
+    font-size: 26px;
+    font-style: italic;
+    color: deepskyblue;
+}
+
+img{
+    width: auto;
+    height: 520px;
+}
+.recipes-nav{
+    text-align: center;
+    list-style: inside;
+    color: bisque;
+    font-weight: bold;
+    list-style-type: none;
+    padding-left: 0;    
+}
+    
+.recipe-ing{
+    text-align: left;
+    list-style-type: square;
+    padding-left: 10px;
+
+}
+
+
