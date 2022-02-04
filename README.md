@@ -23,6 +23,13 @@ The goal is to use all that I've learned previously by creating a recipes websit
 Let's check this out. The conclusion will be written after realising the project !
 ## Conclusion
 
-There was no huge difficulty. The main problem I was facing with is : I am slow. I had to create several lists, and fill them with data, and it was really painfull and slow.
+There was no huge difficulty. The main problem I was facing with is : I am slow. I had to create several lists, and fill them with data, and it was really painful and slow.
 Something that could have made the project more sexy would have been to resize pictures correctly.
-Anyway, technicals aspects went smoothly !
+Anyway, technical aspects went smoothly !
+
+## Conclusion Again
+
+Hello, I didn't know I will come back here. What a pleasure. My wish has become true : I added CSS to my wonderful website. Well... at least now I can't say I didn't work on design. The journey will be long, really long.
+
+![CSS](img/CSS_me.png)
+
